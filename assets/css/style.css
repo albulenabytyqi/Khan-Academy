@@ -550,7 +550,8 @@ nav{ width: 100%;
 .lections{width:400px;
           height: auto;
           display: grid;
-          grid-template-columns: 1fr;          justify-content: center;
+          grid-template-columns: 1fr; 
+          justify-content: center;
           gap: 0px;
           margin-left:0px;
       }              
